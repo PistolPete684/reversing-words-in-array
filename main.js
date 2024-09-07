@@ -8,5 +8,4 @@ function reverse(string){
     .reverse()
     //the join method joins elements of an array
     .join(' ');
-    //Test
 }
